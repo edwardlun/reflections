@@ -11,6 +11,8 @@ It allow a 'buffer' like place to store files to be committed at the same time, 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Ensure that all file at the staging area are of the samle logical function before comitting.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
