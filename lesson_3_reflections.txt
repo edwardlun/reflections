@@ -5,3 +5,8 @@ to share to code with others.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 to pull only when i want to 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks means cloning on the Github, clones can be between repo from the github to local or local to local.
+fork is used when you want to change code owned by others without changing their copy of the code.
